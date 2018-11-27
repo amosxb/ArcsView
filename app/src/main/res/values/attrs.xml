@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ArcsView">
+        <attr name="centerText" format="string" />
+        <attr name="centerTextSize" format="dimension" />
+        <attr name="centerTextColor" format="color" />
+        <attr name="descTextSize" format="dimension" />
+        <attr name="descTextColor" format="color" />
+        <attr name="isStartAnim" format="boolean" />
+    </declare-styleable>
+</resources>
